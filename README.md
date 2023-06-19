@@ -1,2 +1,2 @@
 # BitSyncVPN
-A Private VPN service 
+A Private VPN service using the terminal
